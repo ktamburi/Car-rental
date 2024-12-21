@@ -1,0 +1,26 @@
+25
+AA812TR 2018 Volvo Gasoline 0.063 5 75 4
+AA777BR 2022 BMW Gasoline 0.068 5 70 3
+AA926PL 2012 Volkswagen Diesel 0.054 5 45 3
+AA831MT 2013 Benz-C-Class Diesel 0.067 5 50 2
+AA209XR 1997 Ferrari Diesel 0.159 2 250 2
+AA581WX 2015 Audi-A5 Gasoline 0.063 5 40 1
+AA293TR 2014 Audi-A6 Diesel 0.068 5 50 1
+AA461OL 2018 Peugeot Diesel 0.567 5 70 1
+AA123BC 2018 Ford-Focus Gasoline 0.065 5 70 1
+AA437XJ 2016 Golf5 Diesel 0.059 5 45 1
+AA491SC 2012 Honda Hybrid 0.038 7 45 1
+AA942FG 2019 Hyundai Diesel 0.064 11 85 1
+AA447PT 2020 Audi Gasoline 0.068 5 85 1
+AA111SM 2016 Lexus Diesel 0.078 4 100 1
+AA455VT 2013 Toyota Gasoline 0.029 5 30 1
+AB456DE 2016 Toyota-Camry Gasoline 0.058 5 75 0
+AA184EM 2015 Kia Gasoline 0.059 5 60 0
+AC789FG 2019 Honda-Civic Gasoline 0.061 5 80 0
+AC012HI 2017 Volkswagen-Golf Gasoline 0.063 5 65 0
+AA172PR 2016 Opel Gasoline 0.045 5 30 0
+AB345JK 2020 Nissan-Sentra Gasoline 0.057 5 85 0
+AB311DK 2017 Benz-GLE Gasoline 0.067 5 100 0
+AA295JD 2013 Lancia Diesel 0.036 5 50 0
+AC348IO 2020 Range Gasoline 0.079 5 120 0
+AC569VH 2015 Ford Gasoline 0.045 5 40 0
